@@ -10,6 +10,7 @@ Trainees Back-End Test
 
 # :compass: Instruções
 ```
+  * Clonar o projeto
   * Configurar ambiente Node
   * Rodar o servidor Node usando Express
   * Conectar o **servidor Node** com o banco de dados MySQL
